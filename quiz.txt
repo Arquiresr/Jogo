@@ -1,0 +1,29 @@
+Quem é o peão da Rias Gremory?     | Anime      | 4 |1 azazel | 2 kiba      | 3 Vale      |4 Issei      
+Quantos anos o Satoru Gojo tem?    | Anime      | 2 |1 29 Anos | 3 28 Anos     | 2 27 Anos     |4 26 Anos   
+Qual é o nome da mãe do Junpei?    | Anime      | 3 |1 Nobara Yoshino| 2 Asami Yoshino| 3 Nagi yoshino      |4 nenhuma     
+O objetivo do Itadori é comer todos os ___ dedos e assim então morrer, levando o Sukuna consigo.   | Anime      | 2 |1 15| 2 20     | 3 30     |4 35
+Seraffal Leviathan é irmã de:      | Anime      | 1 |1 Sona| 2 Kuroca| 3 Tsubake      |4 Nenuma
+Qual a primeira ilha que eles vão depois do time Skip?    | Anime      | 2 |1 Punk Hazard| 2 Saboady   | 3 Wano     |4 Ilhas dos homens Peixes
+Qual o nome do usuário da Ope Ope no mi?     | Anime      | 3 |1 JoyBoy| 2 Buggy     | 3 Law     |4 Kid     
+Quem quebrou o avião de brinquedo de Mikey?   | Anime      | 4 |1 Draken| 2 Emma| 3 Izana|4 Senju
+Quem deu o avião de brinquedo para o Mikey?     | Anime      | 1 |1 Shinichiro| 2 Emma| 3 Izana      |4 Senju      
+Quantos anos o Satoru Gojo tem?    | Anime      | 2 |1 29Anos | 2 28 Anos     | 3 27 Anos     |4 26 Anos  
+Misty era treinadora de pokémon de tipo de:  |Pokemon | 2 |1 Fada| 2 Psíquico     | 3 Agua     |4 Fogo
+Qual foi o primeiro pokémon de Ash?   |Pokemon | 2 |1 Charmander |2 Bullbasaur     | 3 Squirtle     |4 Pikashu
+Mewtwo é tipo de:  |Pokemon | 3 |1 Pedra/Agua|2 Agua/Aço     | 3 Fada/psiquico    |4 Fogo/Psiquico
+Existe uma temporada que chama as aventuras em...   |Pokemon | 3 |1 Johto|2Benzol    | 3Alola   |4Kanto
+Qual Pokémon tem esse tipo(eletrico/veneno)?  |Pokemon | 1 |1 Toxtricidade|2 Roggenrola     | 3 Vaporeon  |4 Torchic
+Qual Pokémon tem esse tipo(gelo/voo)?  |Pokemon | 4 |1 Musharna|2 Drampa     | 3 geodude   |4 Delibird
+Qual Pokémon tem esse tipo(chão)?  |Pokemon | 4 |1 Marowak|2 Grimer     | 3 Lapras    |4 Donphan
+Este Pokémon altamente territorial prefere climas secos. Não vai sair de sua pedra em dias chuvosos.  |Pokemon | 2 |1 Sewaddle|2 Crosta    | 3 os dois     |4 Nenhum dos dois
+Este Pokémon altamente territorial prefere climas secos. Não vai sair de sua pedra em dias chuvosos.  |Pokemon | 1 |1 Naganadel|2 Tyrantrum     | 3 os dois     |4 Nenhum dos dois
+Qual das alternativas abaixo é uma maneira válida de instanciar uma matriz em java?  |Java| 1 |1 int meuArray[] = {1, 3, 5};|2 int meuArray [] [] = {1,2,3,4};    | 3 int [] meuArray = (5, 4, 3);    |4 int [] meuArray = (5, 4, 3);
+Quais das opções abaixo são palavras-chave reservadas em Java?:  |Java| 2 |1 array|2 int    | 3 ir para    |4 null
+Quais são as declarações válidas para staticpalavra-chave em Java?  |Java| 1 |1 Podemos ter bloco estático em uma classe.|2 O bloco estático em uma classe é executado toda vez que um objeto da classe é criado.     | 3 Podemos ter implementações de métodos estáticos na interface.    |4 Podemos definir um bloco estático dentro de um método
+Selecione o  conceitos ERRADO  de OOPS:  |Java| 3 |1 Abstração|2Herança    | 3 Interface    |4Polimorfismo
+Quais das seguintes afirmações são verdadeiras para herança em Java?  |Java| 4 |1  Você pode estender várias classes em java.|2 A palavra-chave “extend” é usada para estender uma classe em java.    | 3 Os membros privados da superclasse são acessíveis à subclasse.    |4 Não podemos estender classes finais em java.
+Quais das opções abaixo não são exceções não verificadas em java?  |Java| 2 |1 RuntimeException|2 IOException     | 3 NullPointerException    |4ClassCastException
+Qual das seguintes afirmações não são verdadeiras para java?  |Java| 3 |1 A JVM é responsável por converter o código Byte para o código específico da máquina|2 JDK é necessário para compilar programas java.    | 3 JRE não contém JVM    |4 todos estão errado
+Podemos ter dois métodos principais em uma classe java?  |Java| 1 |1 Sim|2 Nao     | 3 Talvez    |4 Errado
+Qual das seguintes afirmações nao é verdadeira sobre Enum em java?  |Java| 3 |1 Todas as enumerações java estendem implicitamente java.lang.Enuma classe.|2 Java enum pode implementar interfaces.     | 3 Enums não podem ser usados ​​em instruções switch.   |4 As constantes Enum são implicitamente estáticas e finais.
+Qual dos abaixo nao é carregadores de classes integrados em java?  |Java| 4 |1 Carregador de classes Bootstrap|2 Carregador de classes de extensões     | 3 Carregador de classes do sistema    |4Carregador de classes de tempo de execução
